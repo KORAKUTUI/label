@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    colour:white;
+    text-align: center;
+    p{
+     font-family: :verdana;
+     font-size: 20 px;
+    }
